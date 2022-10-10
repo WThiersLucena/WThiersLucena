@@ -12,7 +12,7 @@ Social</br>
 
 </br>
 <div align="center">
-  <a href="https://github.com/WThiersLucena">
+  
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WThiersLucena&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
 
